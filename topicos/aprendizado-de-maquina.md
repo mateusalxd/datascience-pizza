@@ -19,6 +19,7 @@
 - [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
 - [A Course in Machine Learning](http://ciml.info/)
 - [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/) | [**pt-br**]
+- [Learning from Data](https://work.caltech.edu/telecourse.html)
 
 
 ## Datasets
@@ -41,6 +42,8 @@
 ## Dicas
 
 - [Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229.html)
+- [Outlier detection with SVM](https://machinelearningphd.com/outlier-detection-svm/)
+- [Feature Engineering as a Core of Machine Learning Business Value](https://indatalabs.com/blog/data-science/feature-engineering-machine-learning-value#Tmcyp1TsPOMhGCBq.99)
 
 
 ## Artigos
@@ -62,8 +65,9 @@
 
  - [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+ - [Machine Learning Yearning by Andrew Ng](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/5dd91615-3b3f-4f5d-bbfb-4ebd8608d330/Ng_MLY01_13.pdf)
+ - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 
 ## Tutoriais
 
   - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
-  - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
